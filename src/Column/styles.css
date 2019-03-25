@@ -1,0 +1,9 @@
+.column-container {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.column-header {
+    border-bottom: 4px solid lightblue;
+}

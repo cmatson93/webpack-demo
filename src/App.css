@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.board-contianer {
+  display: flex;
+  justify-content: space-evenly;
+}
